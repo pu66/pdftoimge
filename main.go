@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	inputPDF  = "test1.pdf"
+	inputPDF  = "1.pdf"
 	outputDir = "output"
 	dpi       = 150
 	format    = "png"
